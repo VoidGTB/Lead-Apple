@@ -9,6 +9,6 @@
 </div>
 
 <p align="center">
-  <img src="images/lead-apple-title.png" alt="Lead Apple">
+  <img src="images/lead-apple-title.png">
 </p>
 
