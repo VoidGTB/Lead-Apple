@@ -21,8 +21,7 @@ Lead Apple will add several new apples with custom effects to the game. The idea
 > - [Ad Astra](https://modrinth.com/mod/ad-astra)
 
 
-Download
-
+### Download
 <p align="center">
   <a href="https://modrinth.com/mod/lead-apple">
     <img src="https://img.shields.io/badge/Download-Modrinth-00AF5C?style=for-the-badge&logo=modrinth" alt="Download on Modrinth">
