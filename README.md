@@ -19,3 +19,15 @@ Lead Apple will add several new apples with custom effects to the game. The idea
 > - [Create](https://modrinth.com/mod/create) mod
 > - [Mekanism](https://modrinth.com/mod/mekanism)
 > - [Ad Astra](https://modrinth.com/mod/ad-astra)
+
+
+Download
+
+<p align="center">
+  <a href="https://modrinth.com/mod/lead-apple">
+    <img src="https://img.shields.io/badge/Download-Modrinth-00AF5C?style=for-the-badge&logo=modrinth" alt="Download on Modrinth">
+  </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/lead-apple-collection">
+    <img src="https://img.shields.io/badge/Download-CurseForge-F16436?style=for-the-badge" alt="Download on CurseForge">
+  </a>
+</p>
