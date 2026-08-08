@@ -30,3 +30,13 @@ Lead Apple will add several new apples with custom effects to the game. The idea
     <img src="https://img.shields.io/badge/Download-CurseForge-F16436?style=for-the-badge" alt="Download on CurseForge">
   </a>
 </p>
+
+Bug Reports & Suggestions
+
+Found a bug or have an idea for the mod?
+
+<p align="center">
+  <a href="https://github.com/VoidGTB/Lead-Apple/issues/new/choose">
+    <img src="https://img.shields.io/badge/Report%20an%20Issue-GitHub-181717?style=for-the-badge&logo=github" alt="Report an issue">
+  </a>
+</p>
