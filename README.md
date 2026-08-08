@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/lead-apple-logo.png" width="400">
+  <img src="images/lead-apple-logo.png" width="200">
 </p>
 
 # Lead-Apple
