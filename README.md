@@ -31,7 +31,7 @@ Lead Apple will add several new apples with custom effects to the game. The idea
   </a>
 </p>
 
-Bug Reports & Suggestions
+### Bug Reports & Suggestions
 
 Found a bug or have an idea for the mod?
 
